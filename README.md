@@ -5,7 +5,7 @@
 ![Overall Architecture](https://github.com/mustafaaktas0/weather-api/blob/main/assets/mimari-yap%C4%B1s%C4%B1.png)
 
 
-##How does the application works?
+## How does the application works?
 - Application receives the requested via /v1/api/open-weather/{city} url with {city} path variables
 - There is a validation for city parameter. City value can not be decimal or a blank value.
 - If the city value is not valid, api returns 400 - Http Bad Request response
