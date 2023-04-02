@@ -20,22 +20,18 @@ On the swagger page you can find the relevant api endpoint. You can reach the op
 
 You can define WEATHER_STACK_API_KEY in the .env file
 
-Technologies
-Java 17
-Spring Boot 3.0
-Open API Documentation
-Spring Data JPA
-Kotlin
-H2 In Memory Database
-Restful API
-Maven
-Junit5
-Mockito
-Integration Tests
-Docker
-Docker Compose
-Github Actions
-Prometheus
-Grafana
-Prerequisites
-Maven or Docker
+## Used Technologies
+-Java 17
+-Spring Boot 3.0
+-Open API Documentation
+-Spring Data JPA
+-H2 In Memory Database
+-Restful API
+-Maven
+-Docker
+-Docker Compose
+-Github Actions
+-Prometheus
+-Grafana
+## Prerequisites
+-Maven or Docker
