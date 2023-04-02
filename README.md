@@ -22,7 +22,9 @@ You can define WEATHER_STACK_API_KEY in the .env file
 
 ## Used Technologies
 -Java 17
+
 -Spring Boot 3.0
+
 -Open API Documentation
 -Spring Data JPA
 -H2 In Memory Database
